@@ -40,6 +40,7 @@ const getRandomBird = arr => {
 // Function display random bird question followed by a 3 second delay, then the answer
 const displayRandomMessage = arr => {
     const randomBird = getRandomBird(arr);
+    console.log(" ")  // add space before question and answer
     console.log("QUESTION: ", arr[randomBird].question);
     setTimeout(function() {console.log("ANSWER: ", arr[randomBird].bird)}, 3 * 1000);  // 3 second delay before desplay of answer
 }  // end displayMessage Fn
