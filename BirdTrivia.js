@@ -23,7 +23,11 @@ let birdBank = [{"bird": "House Sparrow", "question": "What bird was introduced 
         {"bird": "Tufted Titmouse", "question": "Which bird depends on dead trees and the tree holes made by woodpeckers for its nest?"},
         {"bird": "Common Grackle", "question": "Which bird pick leeches off the legs of turtles and steal worms from American Robins?"},
         {"bird": "Hairy Woodpecker", "question": "Which bird likes to forage along trunks and main branches of large trees?"},
-        {"bird": "Carolina Wren", "question": "Which male bird sings a series of whistled notes that sound like 'teakettle'?"}];
+        {"bird": "House Finch", "question": "Which bird was originally only in western U.S. and mexico but introduced in NY in 1940?"},
+        {"bird": "Northern Flicker", "question": "Which woodpecker bird prefers to eat ants on the ground versus on trees?"},
+        {"bird": "Dark-eyed Junco", "question": "Which bird are considered snowbirds of the middle latitudes?"},
+        {"bird": "Brown-headed Cowbird", "question": "Which female bird makes no nest but instead lays her eggs in other bird's nests?"},
+        {"bird": "Cedar Waxwing", "question": "Which bird specializes in eating fruit and can survive on fruit alone for several months?"}];
 
 
 // Function selects random bird and qestion from bird/question array
