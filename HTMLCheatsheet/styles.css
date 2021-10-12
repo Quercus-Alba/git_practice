@@ -1,0 +1,55 @@
+
+
+body {
+    font-family: Helvetica;
+    font-size: 18px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: #ffffcc;
+}
+h1, h3 {
+  text-align: center;
+}
+table {
+  table-layout: auto;
+  width: 100%;
+  border-collapse: collapse;
+  border: 3px solid black;
+}
+
+/* Table Border lines */
+td, th {
+  border: 1px solid #999;
+  padding: 0.75rem;
+  text-align: center
+}
+
+/* Size heading examples in result column */
+.result1 {
+  font-size: 2em;
+}
+.result2 {
+  font-size: 1.5em;
+}
+.result3 {
+  font-size: 1.17em;
+}
+.result4 {
+  font-size: 1em;
+}
+.result5 {
+  font-size: 0.83em;
+}
+.result6 {
+  font-size: 0.67em;
+}
+
+/* Footer Note 1 formatting */
+.element {
+  color: blue;
+  font-weight: bold;
+}
+.value {
+  color: red;
+  font-weight: bold;
+}
